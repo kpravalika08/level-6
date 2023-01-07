@@ -31,15 +31,15 @@
     "sequelize": "^6.23.0"
   },
   "devDependencies": {
-    "eslint": "^8.30.0",
+    "cheerio": "^1.0.0-rc.12",
+    "eslint": "^8.28.0",
     "husky": "^8.0.2",
-    "jest": "^29.1.1",
+    "jest": "^29.3.1",
     "lint-staged": "^13.0.3",
     "nodemon": "^2.0.20",
     "prettier": "^2.7.1",
     "sequelize-cli": "^6.4.1",
-    "supertest": "^6.2.4"
+    "supertest": "^6.2.4",
+    "tiny-csrf": "^1.1.3"
   }
-  
-
 }
